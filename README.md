@@ -1,7 +1,9 @@
 # Naive Bayes Classifer
 > By Rahul Thomas
+
 ---
 ---
+
 ## My Classifier:
 #### read_data :
 Reading is done using the custom class `CSV_Parser` found in the package `rtml.rt_csv.csv_parser`.
